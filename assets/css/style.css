@@ -16,6 +16,14 @@
   }
 }
 
+#results
+{
+  margin: 15px;  
+    font-size: large;
+    font-weight: bolder;
+    line-height: 2;
+}
+
 .option-input {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -79,7 +87,7 @@ body {
   display: -moz-box;
   display: -ms-flexbox;
   display: box; 
-  background: #e8ebee;
+  background-image: url("../images/bkgrnd.jpg");
  
   font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
    
